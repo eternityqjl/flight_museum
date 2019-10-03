@@ -8,7 +8,7 @@
 
 * 目录的层级是按照飞机生产厂商和飞机型号进行分的，但也不一定只限于此。这本书中收录的大部分内容将是民航喷气式客机，而且以AB两家居多，但也会有一些比如飞行特技表演或者其他的一些内容。同时我过去作为一个CR铁路迷，虽然现在对于火车没有了如此高的热情，但还是想分享一个我觉得有意思的火车，这不仅限于CR。
 
-* 
+* The classifaction of the index is according to the manufacturer and the type of the planes. Most of contents in this book are jet aircrafts of cival aviation and most of them are from Airbus and Boeing. But we also have contents related to aerobatics and so on. I used to be a fan of China Railways. Although nowadays I don't have such 
 
 * 一般的内容格式(Default Layout)：
 
@@ -29,4 +29,4 @@
 
 * 最后附上我的个人博客地址 / My Blog Website：
 
-  [eternityqjl.top](eternityqjl.top)
+  [Jialong's Blog](eternityqjl.top)
