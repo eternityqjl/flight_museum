@@ -2,6 +2,8 @@
 
 ## Preface | 前言
 
+### 声明：本网站所有飞机摄影图片均为原创
+
 * 建立这个GitBook的目的是想要把我目前为止拍到的飞机图片以及相关的信息整理和收集起来，方便自己以后查看和回忆，也能给其他人了解航空的机会。可以想象，如果在未来的很多年我都能把对于飞机和飞行的爱好坚持下去，并且能坚持更新这个GitBook，那这一定会非常得精彩。
 
 * The purose of creating this GitBook is to collect the plane photos I took and related information up to now, which makes it easier for me to view and recall in the future and also gives opportunity for other people to know the aviation. As you can imagine, It will be a wonderful scene if I keep on loving aviation and updating the GitBook.
