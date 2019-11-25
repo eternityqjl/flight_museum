@@ -1,6 +1,8 @@
 # Summary
 
 * [My Flight Museum | Preface](README.md)
+* [相关内容 / Related Content](Other/README.md)
+    * [Runway / 跑道](Other/runway.md)
 * [Airbus](Airbus/README.md)
     * [A320](Airbus/A320/README.md)
         * [A319](Airbus/A320/A319.md)
@@ -35,8 +37,6 @@
 * [Bombardier](Bombardier/README.md)
     * [CRJ900](Bombardier/CRJ900.md)
     * [Global6000](Bombardier/Global6000.md)
-* [相关内容 / Related Content](Other/README.md)
-    * [Runway / 跑道](Other/runway.md)
 * [Trains](Trains/README.md)
     * [TRA / 台铁](Trains/TRA.md)
 

@@ -1,0 +1,26 @@
+{
+    "plugins": [
+        "splitter",
+        "expandable-chapters-small",
+        "search-plus",
+        "advanced-emoji",
+        "ga"
+    ],
+
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-XXXX-Y"
+        }
+    },
+
+    "title": "My Flight Museum",
+    "author": "Jialong",
+
+    "links": {
+        "sidebar": {
+            "Jialong's Blog" : "http://eternityqjl.top"
+        }
+    }
+
+
+}
