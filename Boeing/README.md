@@ -1,12 +1,12 @@
 # Boeing
 
-![](http://pyjvbivyg.bkt.clouddn.com/Boeing_logo.svg.png)
+![](http://cdn.eternityqjl.top/Boeing_logo.svg.png)
 
 **波音公司**（英语：**The Boeing Company**）是[美国](https://zh.wikipedia.org/wiki/美國)一家开发、生产及销售[固定翼飞机](https://zh.wikipedia.org/wiki/固定翼飛機)、[旋翼机](https://zh.wikipedia.org/wiki/旋翼机)、[运载火箭](https://zh.wikipedia.org/wiki/运载火箭)、[导弹](https://zh.wikipedia.org/wiki/导弹)和[人造卫星](https://zh.wikipedia.org/wiki/人造卫星)等产品，为世界最大的航天航空器制造商。于1997年并购[麦克唐纳-道格拉斯](https://zh.wikipedia.org/wiki/麦克唐纳-道格拉斯)后，现在为美国境内唯一制造民航用[宽体客机](https://zh.wikipedia.org/wiki/廣體客機)的公司，与欧洲[空中客车](https://zh.wikipedia.org/wiki/空中巴士)公司同为世界仅有的两个大型民航机制造商，彼此瓜分市场。它也提供租赁及产品售后服务。波音公司总部设于[伊利诺伊州](https://zh.wikipedia.org/wiki/伊利諾州)[芝加哥](https://zh.wikipedia.org/wiki/芝加哥)，在[民用航空](https://zh.wikipedia.org/wiki/民用航空)市场上拥有颇高的占有率。
 
 波音同时是全球第二大[国防承包商](https://zh.wikipedia.org/wiki/國防承包商)，军售武器量仅次于[洛克希德·马丁](https://zh.wikipedia.org/wiki/洛克希德·马丁)，产值则高于全球第三的[英国航太](https://zh.wikipedia.org/wiki/英国航太系统)。单单2014年，该公司国防部门销售总额达到290亿美元，占波音公司总收入的32%-35%左右。
 
-![](http://pyjvbivyg.bkt.clouddn.com/1920px-787sizecomp.svg.png)
+![787](http://cdn.eternityqjl.top/1920px-787sizecomp.svg.png)
 
 
 

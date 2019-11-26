@@ -1,8 +1,6 @@
 # B767
 
-![](http://pyjvbivyg.bkt.clouddn.com/B767.jpg)
-
-
+![](http://cdn.eternityqjl.top/B767.jpg)
 
 **波音767**（Boeing 767）是[波音民用飞机集团](https://zh.wikipedia.org/wiki/波音民用飞机集团)开发的一种中到大型[宽体](https://zh.wikipedia.org/wiki/宽体客机)双发动机喷气式客机[[1\]](https://zh.wikipedia.org/wiki/波音767#cite_note-first-flight-1)。它是波音公司的第一架使用玻璃屏幕座舱的宽体双发动机客机。波音767装备了两台[涡轮风扇发动机](https://zh.wikipedia.org/wiki/涡轮风扇发动机)，拥有常规尾翼和[超临界机翼](https://zh.wikipedia.org/wiki/超临界机翼)，有效减少了飞行中的[气动](https://zh.wikipedia.org/wiki/空气动力学)阻力。这架飞机最初的设计定位是一种比[波音747](https://zh.wikipedia.org/wiki/波音747)略小型的宽体跨洲航线客机，载客量在181至375人之间，设计[航程](https://zh.wikipedia.org/wiki/航程)为3850至6385[海里](https://zh.wikipedia.org/wiki/海里)（7130至11825[千米](https://zh.wikipedia.org/wiki/公里)，因变种型号有所不同）。波音767与另一款[窄体客机](https://zh.wikipedia.org/wiki/窄体客机)[波音757](https://zh.wikipedia.org/wiki/波音757)同一时期开发，因而两者很多特点都很相似，主要的差异在载客量上。
 
@@ -51,6 +49,7 @@
 |             发动机（x2）             | 普惠（Pratt & Whitney）JT9D-7R4 普惠PW4052／4056 通用（General Electric）CF6-80A 通用CF6-80C2 | 普惠（Pratt & Whitney）JT9D-7R4 普惠PW4052／4056 通用CF6-80C2 | 普惠JT9D-7R4 普惠PW4056 通用CF6-80A 通用 CF6-80C2 | 普惠PW4056／4060 通用CF6-80C2 罗尔斯·罗伊斯（Rolls-Royce）RB211-524H |               普惠PW4062 通用CF6-80C2               |                                   |
 |           发动机推力（x2）           |                  通用：50,000磅（222千牛）                   |     普惠：63,300磅（282千牛） 通用：62,100磅（276千牛）      |             普惠：50,000磅（220千牛）             | 普惠：63,300磅（282千牛） 通用：62,100磅（276千牛） 罗尔斯·罗伊斯：59,500磅（265千牛） | 普惠：63,300磅（282千牛） 通用：63,500磅（282千牛） |                                   |
 
-
+![](http://cdn.eternityqjl.top/100th-767F-4.png)
 
 (资料参考自维基百科)
+

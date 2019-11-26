@@ -1,6 +1,6 @@
 # A320
 
-![](http://pyjvbivyg.bkt.clouddn.com/Aircraft_Parts_eng.jpg)
+![](http://cdn.eternityqjl.top/Aircraft_Parts_eng.jpg)
 
 **空客A320系列**（英语：**Airbus A320 family**）是[空客公司](https://zh.wikipedia.org/wiki/空中客车公司)制造的一系列中短程双发动机[窄体客机](https://zh.wikipedia.org/wiki/窄体客机)，系列成员包括A318、A319、A320、A321以及商务客机ACJ，是空客最畅销的产品。在[A320neo系列](https://zh.wikipedia.org/wiki/空中客车A320neo系列)推出后，A320系列又被称之为A320ceo（Current Engine Option，现发动机选择）。
 

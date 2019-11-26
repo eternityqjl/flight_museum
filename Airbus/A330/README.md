@@ -1,6 +1,6 @@
 # A330
 
-![A330](http://py2kq5jlv.bkt.clouddn.com/800px-A330FAMILYv1.1.png)
+![A330](http://cdn.eternityqjl.top/800px-A330FAMILYv1.1.png)
 
 **空中客车A330**，是一款由[空中客车公司](https://zh.wikipedia.org/wiki/空中客车公司)所生产的中长程[宽体飞机](https://zh.wikipedia.org/wiki/廣體飛機)，与四发动机的[A340](https://zh.wikipedia.org/wiki/空中客车A340)同期研发。空中客车打算把A330投放在[ETOPS](https://zh.wikipedia.org/wiki/ETOPS)市场上，这个标准由波音[波音767](https://zh.wikipedia.org/wiki/波音767)最先获得认可，[777](https://zh.wikipedia.org/wiki/波音777)客机也是这个标准的一员。除发动机的数目外，A330的机翼与机身的形状与[A340](https://zh.wikipedia.org/wiki/A340)几乎相同，以降低航空公司的训练成本。在机体方面，其设计取自[A300](https://zh.wikipedia.org/wiki/空中客车A300)，但其驾驶室及[电传操纵](https://zh.wikipedia.org/wiki/电传操纵)则是取自[A320](https://zh.wikipedia.org/wiki/空中客车A320)。
 

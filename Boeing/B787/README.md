@@ -1,6 +1,6 @@
 # B787 Dreamliner
 
-![](http://pyjvbivyg.bkt.clouddn.com/B787-800v1.0.png)
+![](http://cdn.eternityqjl.top/1920px-Dreamliner_logo.svg.png)
 
 **波音787梦想飞机**（英语：**Boeing 787 Dreamliner**，在台湾称作“梦想飞机”），是[波音](https://zh.wikipedia.org/wiki/波音)公司最新型号的[宽体中型客机](https://zh.wikipedia.org/wiki/廣體飛機)，由[波音民用飞机集团](https://zh.wikipedia.org/wiki/波音)负责开发，于2011年投入服务。787在典型3级舱等配置下可载242至395人。[燃料](https://zh.wikipedia.org/wiki/燃料)消耗方面，787比起[767](https://zh.wikipedia.org/wiki/波音767)更省油，效益高出许多。此外在用料方面，787是首款主要使用[复合材料](https://zh.wikipedia.org/wiki/复合材料)建造的主流客机。也是[波音](https://zh.wikipedia.org/wiki/波音)公司第二款使用[电传操纵](https://zh.wikipedia.org/wiki/線傳飛控)之飞机，使飞行员可轻易地从[777](https://zh.wikipedia.org/wiki/波音777)转训至787。
 

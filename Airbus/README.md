@@ -1,6 +1,6 @@
 # Airbus
 
-![Airbus](http://pyjvbivyg.bkt.clouddn.com/1920px-Logo_Airbus_2014.svg.png)
+![Airbus](http://cdn.eternityqjl.top/1920px-Logo_Airbus_2014.svg.png)
 
 **空中客车公司**（英语：Airbus S.A.S.，官方译名译为**空中客车**；台湾、港澳译为**空中巴士**），是欧洲一家民航飞机制造公司，于1970年由德国、法国、西班牙与英国共同创立，总部设于法国图卢兹。
 
@@ -31,3 +31,4 @@
 
 
 (资料参考自维基百科)
+

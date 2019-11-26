@@ -1,6 +1,6 @@
 # B777
 
-![](http://py2kq5jlv.bkt.clouddn.com/181005142344-boeing-777x-9.jpg)
+![](http://cdn.eternityqjl.top/B777X.jpg)
 
 **波音777**是一款由美国[波音公司](https://zh.wikipedia.org/wiki/波音公司)制造的中远程双发动机[宽体客机](https://zh.wikipedia.org/wiki/廣體客機)，是当前全球最大的双发动机宽体客机，三级舱布置的载客量由283人至368人，[航程](https://zh.wikipedia.org/wiki/航程)由5,235[海里](https://zh.wikipedia.org/wiki/海里)至9,450海里（9,695[千米](https://zh.wikipedia.org/wiki/公里)至17,500千米）。波音777采用圆形机身设计，宽度更大，起落架共有14个机轮，波音777-300ER型及200LR型采用[通用电气GE90-115B](https://zh.wikipedia.org/wiki/通用电气GE90)发动机，直径达3.43米（被广泛使用的[波音737](https://zh.wikipedia.org/wiki/波音737)之机体直径仅为3.4米），实验最大推力569[千牛顿](https://zh.wikipedia.org/wiki/千牛頓)。波音投入了大量的资源来开发777，这是第一架完全采[计算机辅助设计](https://zh.wikipedia.org/wiki/電腦輔助設計)的商用飞机，商用结果证明波音777是一款成功的飞机。
 
