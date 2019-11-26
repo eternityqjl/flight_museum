@@ -1,6 +1,6 @@
 # B747
 
-![](http://py2kq5jlv.bkt.clouddn.com/1920px-A380_vs_Boeing_747.svg.png)
+![](http://cdn.eternityqjl.top/1920px-A380_vs_Boeing_747.svg.png)
 
 **波音747**，又称为“**珍宝客机**”（Jumbo Jet），波音747亦是全世界首款生产出的[宽体民用飞机](https://zh.wikipedia.org/wiki/廣體飛機)，由[美国](https://zh.wikipedia.org/wiki/美國)[波音民用飞机集团](https://zh.wikipedia.org/wiki/波音民用飞机集团)制造。波音747雏型的大小是1960年代被广泛使用的[波音707](https://zh.wikipedia.org/wiki/波音707)的两倍，飞机翼展比[莱特兄弟](https://zh.wikipedia.org/wiki/萊特兄弟)的[首次飞行距离](https://zh.wikipedia.org/wiki/萊特飛行器)还要长。自1970年投入服务后，到2007年[A380](https://zh.wikipedia.org/wiki/空中客车A380)投入服务之前，波音747保持全世界载客量最高飞机的纪录长达37年。
 

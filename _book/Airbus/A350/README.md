@@ -1,6 +1,6 @@
 # A350
 
-![A350](http://py2kq5jlv.bkt.clouddn.com/1280px-A350_variant_sizes.svg.png)
+![A350](http://cdn.eternityqjl.top/1280px-A350_variant_sizes.svg.png)
 
 
 
