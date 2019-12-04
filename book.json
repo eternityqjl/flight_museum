@@ -1,7 +1,6 @@
 {
     "plugins": [
         "splitter",
-        "expandable-chapters-small",
         "search-plus",
         "advanced-emoji",
         "ga"

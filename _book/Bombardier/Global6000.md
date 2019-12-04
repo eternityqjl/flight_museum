@@ -1,6 +1,6 @@
 # Global 6000
 
-### 1.VistaJet Malta|维思达公务机  9H-VJC
+### VistaJet Malta|维思达公务机  9H-VJC
 
 ![](http://cdn.eternityqjl.top/Bombardier%20Global%206000_VistaJet%20Malta_9H-VJC_1.jpg)
 
