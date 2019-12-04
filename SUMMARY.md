@@ -3,6 +3,7 @@
 * [My Flight Museum | Preface](README.md)
 * [相关内容 / Related Content](Other/README.md)
     * [Runway / 跑道](Other/runway.md)
+    * [Airways / 航路](Other/airways.md)
 * [Airbus](Airbus/README.md)
     * [A320](Airbus/A320/README.md)
         * [A319](Airbus/A320/A319.md)
