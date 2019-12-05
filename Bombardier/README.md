@@ -1,8 +1,8 @@
 # Bombardier Aerospace
 
+![](http://cdn.eternityqjl.top/AA-CRJ900.jpg)
+
 **庞巴迪航天**（英语：**Bombardier Aerospace**）是[加拿大](https://zh.wikipedia.org/wiki/加拿大)运输设备业者[庞巴迪](https://zh.wikipedia.org/wiki/龐巴迪)的[子公司](https://zh.wikipedia.org/wiki/子公司)。以员工人数计它是世界上第三大的飞机制造商（仅次于[波音](https://zh.wikipedia.org/wiki/波音)及[空中客车](https://zh.wikipedia.org/wiki/空中巴士)），及以年度付运量计全球第四大商业飞机制造商（仅次于[波音](https://zh.wikipedia.org/wiki/波音)、[空中客车](https://zh.wikipedia.org/wiki/空中巴士)及[巴西航空工业](https://zh.wikipedia.org/wiki/巴西航空工業)）。
-
-
 
 **产品系列：**
 
