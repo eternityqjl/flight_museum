@@ -16,7 +16,7 @@
 
 * 一般的内容格式(Default Layout)：
 
-  ### 1.The name of the Airline | 航空公司名称     Registration(注册号)
+  ### The name of the Airline | 航空公司名称     Registration(注册号)
 
   Photos(图片)
 
