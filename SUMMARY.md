@@ -44,9 +44,13 @@
         * [B787-8](Boeing/B787/B787-8.md)
         * [B787-9](Boeing/B787/B787-9.md)
         * [B787-10](Boeing/B787/B787-10.md)
+* [COMAC](COMAC/README.md)
+    * [ARJ21-700](COMAC/ARJ21-700.md)
 * [Bombardier](Bombardier/README.md)
     * [CRJ900](Bombardier/CRJ900.md)
     * [Global6000](Bombardier/Global6000.md)
+* [Embraer](Embraer/README.md)
+    * [E-190](Embraer/E-190.md)
 * [Trains](Trains/README.md)
     * [台湾铁路](Trains/TRA.md)
 
